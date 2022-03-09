@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66578394554",
+    "project_id": "chef-app-b2ddb",
+    "storage_bucket": "chef-app-b2ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66578394554:android:ecaf14ba6a73fe7d1d0183",
+        "android_client_info": {
+          "package_name": "com.example.chef_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66578394554-s7098oa93tip0jgdojqkfer328orj2fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chef_app",
+            "certificate_hash": "8c579efccea40cceca482ba03f5b13004027981d"
+          }
+        },
+        {
+          "client_id": "66578394554-6m1n260srh216farghc4m0jcito9pdq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxeRk_HnwR1CnmtvBY1AK0iIOba4pVljA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66578394554-6m1n260srh216farghc4m0jcito9pdq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
